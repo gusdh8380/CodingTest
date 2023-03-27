@@ -1,4 +1,4 @@
-
+//6 정렬 위에서 아래로_qiuckSort 알고리즘으로 구현
 import java.util.Scanner;
 public class hw1_quicksort {
 
