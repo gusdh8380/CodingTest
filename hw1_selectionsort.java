@@ -48,7 +48,7 @@ public class hw1_selectionsort {
 			
 			System.out.print(a[i]+ " ");
 		}
-		
+		sc.close();
 	}
 
 }
