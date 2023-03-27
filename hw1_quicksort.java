@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class hw1 {
+public class hw1_quicksort {
 
 	public static void quicksort(int[]array,int p,int r) {
 		if(p<r) {
