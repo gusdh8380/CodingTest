@@ -1,3 +1,4 @@
+package CodingText_Algorithm;
 
 
 import java.util.Scanner;

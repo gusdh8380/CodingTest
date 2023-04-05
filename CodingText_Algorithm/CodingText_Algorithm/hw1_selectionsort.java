@@ -1,3 +1,5 @@
+package CodingText_Algorithm;
+
 
 import java.util.Scanner;
 public class hw1_selectionsort {
